@@ -72,6 +72,10 @@ challange one is fun, we manage to plant some trip into the challange
 - By default UART with root is enabled. But you should not change the root passowrd. It will break the MD5
 - UART with a twist, we switched the VCC logo with ground.
 
+******
+Update: 6th Nov 2018, 1500 by changing the root password, it will work too. *Design Flaw* 
+******
+
 We do have teams burned their board, changes the root password and come to me and ask for reflash and maybe get their finger burned.
 
 Overall, we do receive very good Feedback on my very first hardware hacking CTF challange. We do hope we can work more closely with XCTF in the future.
