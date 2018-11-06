@@ -1,9 +1,9 @@
 Date: 1st - 2nd Nov 2018
-Event: First Ever JD.COM + Hack In The Box, Beijing.
+Event: First Ever JD-HITB, Beijing.
 Description: XCTF Grand Final, 2018
 
 Organization:
-- theshepherdlab.org, a research lab by JD.COM
+- theshepherdlab.org, a research lab by JD Security
 - hackersbadge.com, a free and opensource badge making lab
 - hackinthebox.org, that super hacking conference
 
