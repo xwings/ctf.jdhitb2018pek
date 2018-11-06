@@ -19,9 +19,7 @@ After the great experience making a RESUABLE badge (not for conference ony). We 
 Using a MTK chip with OpenWRT was the idea. We found a MTK7688 kit and we decided to get in to board drawing and making custom firmware.
 
 
-
-
-[the badge with board]
+![alt text](https://raw.githubusercontent.com/xwings/ctf.jdhitb2018pek/master/pic/blankboard.jpg)
 
 We also decided to to make a small screen just to show SSID and Password
 
@@ -76,3 +74,6 @@ challange one is fun, we manage to plant some trip into the challange
 We do have teams burned their board, changes the root password and come to me and ask for reflash and maybe get their finger burned.
 
 Overall, we go received a very good Feedback on my very first hardware hacking CTF. I do hope I can make more hardware CTF in the future.
+
+
+![alt text](https://raw.githubusercontent.com/xwings/ctf.jdhitb2018pek/master/pic/allbadge.jpg)
